@@ -1,0 +1,36 @@
+.container {
+
+    text-align: center;
+}
+
+select {
+
+    margin: 5px;
+    width: 70px;
+    border-radius: 20px;
+    text-align: center;
+      transition: ease-in-out 0.3s;
+    transform:scale(1);
+    font-size: 17px;
+}
+
+select:hover {
+
+    transition: ease-in-out 0.3s;
+    transform:scale(1.1);
+    background-color: rgb(189, 219, 245);
+
+}
+
+.bordas {
+
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: rgb(189, 219, 245)
+}
+.bordas2 {
+
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: rgb(218, 209, 209)
+}
